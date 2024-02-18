@@ -1,11 +1,13 @@
+# Esta versión de IbvuBot aun no esta completa. <img src="https://tenor.com/hi-hola.gif" height="32px">
+> #### 🚀 Versión actual: 1.7.0
 <p align="center"> 
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
-<img src="https://i.imgur.com/kd8sus3.jpeg" alt="GataBot-MD" width="800"/>
+<img src="https://i.imgur.com/SmqAhmc.jpeg" alt="IbvuBot-MD" width="800"/>
   
-> Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
+> Antes de usar este repositorio, visita la **[Política de IbvuBot. 😼](https://github.com/ibvusito/IbvuBot-MD/blob/master/terms.md)** 
 </p>
 
 <p align="center">
@@ -26,17 +28,17 @@
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:centergatabot@gmail.com)
-[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoporteGataBot)
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/C45GXBEFTPONE1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/groups/872989990425789/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gatadios)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gata_dios)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/OficialGD)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fer107303@gmail.com)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibvubot)
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/5W54LAJNZDWBD1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ifoqt30/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6bpR1o9x85NbkJu3O1BuvQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ifoqt)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fercho30052002q)
 </div>
 
 ### 👇 `Todas las cuentas están aquí!!`
-[![Enlaces](https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/gatabot/)
+[![Enlaces](https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://www.atom.bio/ibvusito/)
 
 -----
 # 📍 Atajos del README
