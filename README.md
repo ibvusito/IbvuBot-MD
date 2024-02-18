@@ -1,8 +1,5 @@
 # Esta versión de IbvuBot aun no esta completa. <img src="https://tenor.com/hi-hola.gif" height="32px">
 > #### 🚀 Versión actual: 1.7.0
-<p align="center"> 
-font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
-</p>
  
 <p align="center">
 <img src="https://i.imgur.com/SmqAhmc.jpeg" alt="IbvuBot-MD" width="800"/>
