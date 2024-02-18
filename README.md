@@ -1,4 +1,4 @@
-# Esta versión de IbvuBot aun no esta completa. <img src="https://tenor.com/hi-hola.gif" height="32px">
+# Esta versión de IbvuBot aun no esta completa 💖. <img src="https://tenor.com/hi-hola.gif" height="32px">
 > #### 🚀 Versión actual: 1.7.0
  
 <p align="center">
