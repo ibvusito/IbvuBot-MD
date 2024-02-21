@@ -1,4 +1,4 @@
-//CÓDIGO CREADO GRACIAS A https://github.com/Azami19 & https://github.com/GataNina-Li
+//CÓDIGO CREADO GRACIAS A https://github.com/Azami19 & https://github.com/ibvusito/IbvuBot-MD/
 //Puedes editar el país,enlaces, los números se editan desde el config.js
 import fetch from 'node-fetch'
 
@@ -20,7 +20,7 @@ const cat = `𝐈𝐁𝐕𝐔 - 𝐁𝐎𝐓 💖
 
 *---------------------*
 
-ᵃ ᶜᵒⁿᵗᶦⁿᵘᵃᶜᶦᵒ́ⁿ ˢᵉ ᵉⁿᵛᶦᵃʳᵃⁿ ˡᵒˢ ᶜᵒⁿᵗᵃᶜᵗᵒˢ ᵈᵉ ᵐᶦ ᵖʳᵒᵖᶦᵉᵗᵃʳᶦᵒ / ᵈᵉˢᵃʳʳᵒˡˡᵃᵈᵒʳᵉˢ`
+𝗮 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗮𝗰𝗶ó𝗻 𝘀𝗲 𝗲𝗻𝘃𝗶𝗮𝗿𝗮𝗻 𝗹𝗼𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗼𝘀 𝗱𝗲 𝗺𝗶 𝗰𝗿𝗲𝗮𝗱𝗼𝗿 𝘆 𝗱𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀`
 let biografiaBot = await conn.fetchStatus(conn.user.jid.split('@')[0] + '@s.whatsapp.net').catch(_ => 'undefined')
 let bioBot = biografiaBot.status?.toString() || `${desc2 == '' ? lenguajeGB.smsContacto1() : desc2}`
 
@@ -35,9 +35,9 @@ let bio = biografia.status?.toString() || `${desc2 == '' ? lenguajeGB.smsContact
   
 nombre = official[0][0] == String(contact[0]) ? official[0][1] : official[1][0] == String(contact[0]) ? official[1][1] : official[2][0] == String(contact[0]) ? official[2][1] : official[3][0] == String(contact[0]) ? official[3][1] : lenguajeGB.smsContacto3() 
 description = official[0][0] == String(contact[0]) ? 'Solo temas de IbvuBot' : official[1][0] == String(contact[0]) ? lenguajeGB.smsContacto4() : official[2][0] == String(contact[0]) ? lenguajeGB.smsContacto4() : official[3][0] == String(contact[0]) ? lenguajeGB.smsContacto4() : desc === '' ? lenguajeGB.smsContacto5() : desc
-correo = official[0][0] == String(contact[0]) ? 'fer107303@gamil.com' : official[1][0] == String(contact[0]) ? 'https://www.instagram.com/ifoqt/' : official[2][0] == String(contact[0]) ? 'fer107303@gmail.com' : mail === '' ? lenguajeGB.smsContacto6() : mail
+correo = official[0][0] == String(contact[0]) ? 'fer107303@gamil.com' : official[1][0] == String(contact[0]) ? 'fer107303@gamil.com' : official[2][0] == String(contact[0]) ? 'fquinde775@gamil.com' : mail === '' ? lenguajeGB.smsContacto6() : mail
 lugar = official[0][0] == String(contact[0]) ? '🇪🇨 Ecuador' : official[1][0] == String(contact[0]) ? '🇪🇨 Ecuador' : official[2][0] == String(contact[0]) ? '🇪🇨 Ecuador' : official[3][0] == String(contact[0]) ? '🇲🇽 México' : country === '' ? lenguajeGB.smsContacto7() : country
-enlace = official[0][0] == String(contact[0]) ? 'https://github.com/ibvusito' : official[1][0] == String(contact[0]) ? 'https://github.com/ibvusito' : official[2][0] == String(contact[0]) ? 'https://github.com/ibvusito' : official[3][0] == String(contact[0]) ? 'https://www.instagram.com/makuin__/' : md 
+enlace = official[0][0] == String(contact[0]) ? 'https://www.instagram.com/ifoqt' : official[1][0] == String(contact[0]) ? 'https://github.com/ibvusito' : official[2][0] == String(contact[0]) ? 'https://github.com/ibvusito' : official[3][0] == String(contact[0]) ? 'https://www.instagram.com/makuin__/' : md 
    
 lista.push([number, ofc, nombre, description, official[3][0] == String(contact[0]) ? null : correo, lugar, enlace, bio, official[1][0] == String(contact[0]) ? 'https://www.youtube.com/channel/UC6bpR1o9x85NbkJu3O1BuvQ' : null]) }  
 lista.push([conn.user.jid.split('@')[0], await conn.getName(conn.user.jid), packname, lenguajeGB.smsContacto8(), mail === '' ? 'fer107303@gmail.com' : mail, lenguajeGB.smsContacto7(), md, bioBot, yt, ig, fb, paypal, nna])
@@ -67,7 +67,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------- Nombre
   let nowner = `${wm.split`@`[0]}@s.whatsapp.net`
-  let insta = `https://www.instagram.com/ifoqt`
+  let insta = `https://www.instagram.com/gata_dios`
   let teksnomor = `
 • @${wm.split`@`[0]} •
 ------- ${wm} -------
@@ -82,7 +82,7 @@ let teksbio = `𝐈𝐁𝐕𝐔 - 𝐁𝐎𝐓 💖
 *wa.me/593963028581*
 *---------------------*
 
-*CENTER GATABOT*
+*CENTER IBVUBOT*
 *fer107303@gmail.com*
 
 𝐈𝐁𝐕𝐔 - 𝐁𝐎𝐓 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
