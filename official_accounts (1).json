@@ -1,0 +1,55 @@
+{
+  "info": {
+
+    "accounts": {
+      "youTube": "https://youtube.com/@ibvusito",
+      "instagram": "https://www.instagram.com/panda_uio",
+      "gatabot_md": "https://github.com/ibvusito/IbvuBot-MD",
+      "gatabotlite_md": "https://github.com/ibvusito/IbvuBotLite-MD",
+      "facebook": "https://www.facebook.com/groups/872989990425789/",
+      "tiktok": "https://www.tiktok.com/@ibvusito",
+      "threads": "https://www.threads.net/@panda_uio",
+      "paypal": "https://paypal.me/Fercho30052002q",
+      "github": "https://github.com/ibvusito",
+      "mail": "fer107303@gmail.com",
+      "all": "https://www.atom.bio/ibvusito"
+    },
+
+    "channels": {
+      "channel1": "https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A",
+      "channel2": "https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g",
+      "channel3": "https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15",
+      "channel4": "https://t.me/ibvusito"
+    },
+
+    "groups": {
+      "group1": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group2": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group3": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group4": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group5": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group6": "https://t.me/ibvusito"
+    },
+
+    "collaboration": {
+      "group1": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group2": "https://chat.whatsapp.com/HfYrQIprV571DITJXZEQyo",
+      "group3": "https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU",
+      "group4": "https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp"
+    },
+
+    "sponsors": {
+      "boxmine": "https://boxmineworld.com",
+      "cafirexos": "https://www.cafirexos.com",
+      "vortexus": "https://vortexuscloud.com",
+      "asif": "https://t.me/Asifhosting"
+    },
+
+    "others": {
+      "assistance_num": "https://wa.me/message/MEKOUFBEOG5ED1",
+      "yt_vid": "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s",
+      "group_support": "https://chat.whatsapp.com/BpoXxhKl33C9EI4v4mWDHh"
+    }
+
+  }
+}
