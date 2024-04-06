@@ -1,7 +1,7 @@
 {
-    "name": "IbvuBot-MD", 
+    "name": "XyzcoBot-MD", 
     "description": "Super Bot WhatsApp",
-    "repository": "https://github.com/ibvusito/IbvuBot-MD",
+    "repository": "https://github.com/ibvusito/XyzcoBot-MD",
     "logo": "https://i.imgur.com/dArkHPE.jpg",
     "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
     "buildpacks": [
