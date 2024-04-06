@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/ibvusito/XyzcoBot-MD
 
-WORKDIR /root/IbvuBot-MD
+WORKDIR /root/XyzcoBot-MD
 
-COPY ./root/IbvuBot-MD
+COPY ./root/XyzcoBot-MD
 
 RUN yarn install
 
